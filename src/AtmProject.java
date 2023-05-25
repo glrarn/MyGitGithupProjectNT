@@ -10,6 +10,8 @@ public class AtmProject {
         //version4
         System.out.println("guler branch kodlarini tamamladi");
         //version glr
+        System.out.println("bazi kodlar");
+        //glr2
 
     }
 }

@@ -12,6 +12,8 @@ public class AtmProject {
         //version glr
         System.out.println("bazi kodlar");
         //glr2
+        System.out.println();
+        //glr3
 
     }
 }

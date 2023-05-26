@@ -16,7 +16,7 @@ public class AtmProject {
         //glr3
         System.out.println();
         //lokalde degisiklik yaptim.
-        //remote'de degisiklik yaptim...
+        //remote'de degisiklik yaptim..
 
     }
 }

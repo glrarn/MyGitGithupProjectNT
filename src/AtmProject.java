@@ -15,6 +15,7 @@ public class AtmProject {
         System.out.println();
         //glr3
         System.out.println();
+        //lokalde degisiklik yaptim.
 
     }
 }

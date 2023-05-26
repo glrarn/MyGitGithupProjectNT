@@ -17,6 +17,7 @@ public class AtmProject {
         System.out.println();
         //lokalde degisiklik yaptim.
         //remote'de degisiklik yaptim..
+        //nihayet sorunu duzelttim.
 
     }
 }
